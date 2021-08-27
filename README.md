@@ -28,8 +28,6 @@
             alert("Makasih :)")
         </script>
         <style>
-            @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
-
 body {
    font-family: 'Quicksand', sans-serif;
    margin: 0;
